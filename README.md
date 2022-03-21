@@ -1,2 +1,3 @@
 # tarea_4
-tarea 4 de programación web
+
+<img width="393" alt="Mi_tarea4" src="https://user-images.githubusercontent.com/78752179/159202587-8b8e9389-11ac-4bc4-90f9-a5e31b0d177b.png">
